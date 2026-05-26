@@ -1,0 +1,6 @@
+{
+  "Name": "Movie Search Full Automation",
+  "ProjectType": "Process",
+  "Description": "This System Will Automatically Search For A Movie Name Within The RPA Challenge Website And Returns The Result As Found Or Not Found Within An Excel Sheet And Send An Email Including The Movie Name And The Result :))",
+  "MainFile": "Main.xaml"
+}
